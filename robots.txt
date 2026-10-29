@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chrisbarryrocks.github.io/cast-iron-guide/sitemap.xml
