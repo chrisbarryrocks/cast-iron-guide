@@ -47,6 +47,7 @@ def page(title, desc, path, body, kind="website", extra=""):
 <meta property="og:description" content="{html.escape(desc)}"><meta property="og:url" content="{url}">
 <meta property="og:site_name" content="{NAME}"><meta name="twitter:card" content="summary">
 <link rel="icon" href="{BASE}favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="{BASE}style.css">{extra}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3884434328553337" crossorigin="anonymous"></script>
 </head><body><header><div class="w"><a class="logo" href="{BASE}">{NAME}</a>
 <nav><a href="{BASE}">Guides</a><a href="{BASE}about/">About</a><a href="{BASE}contact/">Contact</a></nav></div></header>
 <main><div class="w">{body}</div></main>
